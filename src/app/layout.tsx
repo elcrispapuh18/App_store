@@ -24,9 +24,17 @@ export default function RootLayout({
 
             <ul>
 
-              <li>Home</li>
+             <a href="/">
 
-              <li>Store</li>
+             <li>Home</li>
+
+              </a>
+
+             <a href="/store">
+             
+             <li>Store</li>
+
+             </a> 
 
             </ul>
 
